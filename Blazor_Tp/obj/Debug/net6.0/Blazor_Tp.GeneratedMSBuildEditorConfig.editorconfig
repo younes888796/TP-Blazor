@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Blazor_Tp
+build_property.RootNamespace = Blazor_Tp
+build_property.ProjectDir = C:\Users\yelhoub\OneDrive - SQLI\Documents\blazor\Blazor_Tp\Blazor_Tp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yelhoub\OneDrive - SQLI\Documents\blazor\Blazor_Tp\Blazor_Tp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/GeolocationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvbG9jYXRpb25QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/RenderTreeExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVuZGVyVHJlZUV4YW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Pages/WeeklyForecast.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2Vla2x5Rm9yZWNhc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Shared/ThemeChooser.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRoZW1lQ2hvb3Nlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Shared/WeatherDay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdlYXRoZXJEYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pdx0ziy8fi
+
+[C:/Users/yelhoub/OneDrive - SQLI/Documents/blazor/Blazor_Tp/Blazor_Tp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5eoq0tbuv9
